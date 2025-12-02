@@ -1,0 +1,6 @@
+﻿{
+  "API_KEY":"REPLACE_ME",
+  "API_SECRET":"REPLACE_ME",
+  "BASE_URL": "https://testnet.binancefuture.com",
+  "RECV_WINDOW": 5000
+}
